@@ -2,7 +2,7 @@ Hi! This **He Is Coming** mod lets you reveal the full game map and helps you cr
 
 Press **F11** in-game to open the mod menu and access all features.
 
-⚠️ Make sure your mod version matches your He Is Coming game version, otherwise the game may crash.
+⚠️ Make sure your mod version matches your **He Is Coming** game version, otherwise the game may crash.
 
 This mod is perfect for **He Is Coming** players who want map exploration, build optimization, and a safe, easy-to-use mod without altering game files.
 
